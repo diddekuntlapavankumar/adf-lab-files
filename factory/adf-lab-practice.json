@@ -1,0 +1,15 @@
+{
+	"name": "adf-lab-practice",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbad458c-a882-48d2-8ee8-b21cbb0d23a4",
+		"tenantId": "e21f95b2-1974-4eba-8657-f16c47d34f2d"
+	}
+}
